@@ -88,7 +88,7 @@ You can use the following markdown format to create tables:
 | Smiley | `:smiley:` | :smiley: |
 ```
 Gitub extendes the functionality of Markdown tables to provide more alignment and table cell formatting options [<sup>[2]</sup>](#external-references)
-
+ ![](assets/)
 
 ## External References
 
