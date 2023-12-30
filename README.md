@@ -42,10 +42,10 @@ puts "Hello, #{user_name}! Welcome to the Ruby programming world."
 - Adding an image can be done by drag and drop.
 - Or, if need can resize the image by adding width.
 
-<img width ="200" src="https://github.com/terraup/github-docs-example/assets/118325612/1ac1dc7f-f7c8-40bc-a839-7f6b02fc8ee1" />
+<img width ="200" src="assets/aws-cloud-quest-solutions-architect.png" />
 
 
-Good Cloud Enngineers use codeblocks for both Code and Errors that appear in the console. 
+Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console. 
 
 ```bash
 # Example of raising a standard error
@@ -88,7 +88,7 @@ You can use the following markdown format to create tables:
 | Smiley | `:smiley:` | :smiley: |
 ```
 Gitub extendes the functionality of Markdown tables to provide more alignment and table cell formatting options [<sup>[2]</sup>](#external-references)
- ![](assets/)
+
 
 ## External References
 
